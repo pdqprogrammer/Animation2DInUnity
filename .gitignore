@@ -1,2 +1,8 @@
-#Library folder
-./Library
+#Visual Studio files to ignore
+Library/
+Temp/
+*sln
+*csproj
+Logs/
+obj/
+.idea/
